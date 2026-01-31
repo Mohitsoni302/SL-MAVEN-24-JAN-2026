@@ -39,6 +39,7 @@ public class MyCalc {
 		System.out.println("Mod is "+ calc.mod(20, 10));
 		calc.show();
 		calc.greeting();
+		System.out.println("Hello Jenkins. Welcome to DevOps Class again !")
 
 	}
 
