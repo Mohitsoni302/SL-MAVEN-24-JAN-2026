@@ -40,6 +40,7 @@ public class MyCalc {
 		calc.show();
 		calc.greeting();
 		System.out.println("Hello Jenkins. Welcome to DevOps Class again !");
+		System.out.println("All functions are called successfully!");
 
 	}
 
