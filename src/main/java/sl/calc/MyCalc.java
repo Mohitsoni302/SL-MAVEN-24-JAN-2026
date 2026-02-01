@@ -41,6 +41,7 @@ public class MyCalc {
 		calc.greeting();
 		System.out.println("Hello Jenkins. Welcome to DevOps Class again !");
 		System.out.println("All functions are called successfully!");
+		System.out.println("This ouput triggered using Poll SCM");
 
 	}
 
